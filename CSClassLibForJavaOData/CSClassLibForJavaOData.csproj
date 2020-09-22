@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="CSAc4yClassFW">
+      <HintPath>C:\library\LPCsharp\CSAc4yClassFW.dll</HintPath>
+    </Reference>
+    <Reference Include="CSAc4yFW">
+      <HintPath>C:\library\LPCsharp\CSAc4yFW.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

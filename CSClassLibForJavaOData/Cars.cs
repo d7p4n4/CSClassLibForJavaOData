@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Ac4yClassModule.Class;
+using System;
 
 namespace CSClassLibForJavaOData
 {
-    public class Cars
+    public class Cars : Ac4yClass
     {
         public int Id { get; set; }
         public string Manufacture { get; set; }
